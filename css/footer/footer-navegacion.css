@@ -1,0 +1,6 @@
+.footer__navegacion{
+    font: var(--open-sans);
+    text-align:center;
+    
+    line-height:1;
+}

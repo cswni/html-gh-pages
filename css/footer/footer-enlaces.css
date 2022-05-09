@@ -1,0 +1,13 @@
+.footer__enlaces{
+    display: inline-block;
+    margin: 1rem .7rem;
+    
+
+    
+}
+
+.footer__enlaces-a{
+    text-decoration: none;
+    color: white;
+    font: var(--open-sans);
+}

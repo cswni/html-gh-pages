@@ -1,0 +1,32 @@
+.principal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+    padding-top: 15.25rem;
+    padding-bottom: 2.5rem;
+    background-color: #162521;
+    
+}
+
+.principal__imagen{
+   
+    height:calc(100vh - 32.2rem);
+    background-repeat: repeat;
+    background-size:cover;
+    margin: auto;
+    padding: 1rem;
+    display: flex;
+    flex-direction: center;
+
+
+}
+
+.contenedor_imagen_principal{
+    background-color: black;
+}
+
+.bloque__principal{
+    
+    height:100vh;
+}

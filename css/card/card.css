@@ -1,0 +1,30 @@
+.card{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #000;
+
+    width: 100%;
+
+    position: relative;
+
+}
+
+.carouselDos{
+    overflow: auto;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+}
+
+.carouselDos::-webkit-scrollbar {
+    height: 0;
+}
+
+.content{
+    display: grid;
+    grid-gap: 16px;
+    grid-auto-flow: column;
+}

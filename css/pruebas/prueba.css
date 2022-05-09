@@ -1,0 +1,68 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.carousel {
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    height: 400px;
+    background-size: cover;
+        
+}
+
+
+
+
+.carousel__button__avanzar{
+
+    background-image: url("/img/flecha-correcta.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: transparent;
+
+    
+}
+
+.carousel__button__avanzar:hover{
+
+    background-color: red;
+    border-radius: 1rem;
+}
+
+
+
+.carousel__button__retroceder{
+    background-image: url("/img/flecha-izquierda.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: transparent;
+    
+}
+
+
+
+.button{
+
+    margin-left: 45%;
+    margin-right: 45%;
+    display: flex;
+    text-decoration: none;
+    border: none;
+    padding:1.2rem;
+    
+    
+}
+
+.button:hover{
+    background-color: red;
+    border-radius: 1rem;
+    
+}
+

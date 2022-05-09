@@ -1,0 +1,17 @@
+.footer{
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #afa1a1;
+    padding-top: 2.5rem;
+    padding-bottom: 2rem;
+    flex-wrap: nowrap;
+    background-image: url(/img/footer.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: black;
+    
+    
+}

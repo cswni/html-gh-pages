@@ -1,0 +1,9 @@
+.diferencias__item{
+    max-width: 350px;
+    box-sizing: border-box;
+    padding: 2rem 0 2rem 5rem;
+    background-repeat: no-repeat;
+    background-position: top 2.2rem left 1.7rem;
+    list-style: none;
+    
+}

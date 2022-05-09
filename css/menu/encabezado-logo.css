@@ -1,0 +1,14 @@
+.encabezado__logo {
+    width: 30rem;
+    height: 29rem;
+    text-align: center;
+    /* box-shadow: rgb(38 57 77) 0px 20px 30px -10px; */
+
+}
+
+.encabezado__logo:hover {
+    -webkit-transform: rotateX(180deg);
+    -webkit-transform-style: preserve-3d;
+    transform: rotateY(180deg);
+    transform-style: preserve-3d;
+}

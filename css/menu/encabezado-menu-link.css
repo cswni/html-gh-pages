@@ -1,0 +1,23 @@
+.encabezado__menu__link{
+    color: #fdfdfd;
+    margin: 3rem;
+    text-decoration: none;
+    text-transform: lowercase;
+    font-family: var(--montserrat);
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    
+
+
+}
+
+.encabezado__menu__link.activo{
+    color: white;
+    font-weight: bold;
+    
+}
+
+.encabezado__menu__link:hover{
+    text-decoration: underline;
+}

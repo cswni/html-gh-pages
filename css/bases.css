@@ -1,0 +1,12 @@
+/*Aca van todo las bases de la pagina*/
+:root {
+    --montserrat: 'Montserrat', sans-serif;
+    --open-sans: 'Open Sans', sans-serif;
+}
+
+
+.container {
+    padding-left: 6%;
+    padding-right: 6%;
+}
+

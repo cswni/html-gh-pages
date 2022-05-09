@@ -1,0 +1,70 @@
+.card__contenedor__producto{
+    list-style: none;
+}
+
+.card__border{
+        
+    
+    /* width: 10rem; */
+    box-sizing: border-box;
+    border: 2px solid white;
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 10rem;
+    margin: 1rem;
+
+
+
+
+}
+
+.img{
+    width: 13rem;
+    height: 18rem;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+
+}
+
+.img:hover{
+    
+    width: 14rem;
+    height: 19rem;
+    border: 1px solid violet;
+    
+}
+
+.img1{    
+    
+    background-image: url(/img/carousel/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+.img2{ 
+
+    background-image: url(/img/carousel/2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.img3{ 
+
+    background-image: url(/img/carousel/4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.card__titulo{
+    font-size: 1.5rem;
+    color: black;
+    margin-top: 2.1rem;
+    margin-right: 3rem;
+    text-shadow: 3px 3px 5px white;
+}

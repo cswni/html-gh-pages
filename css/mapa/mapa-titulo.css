@@ -1,0 +1,13 @@
+.mapa__texto {
+    color: blueviolet;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.mapa__titulo{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 1rem;
+    padding-top: 2rem;
+    text-align: center;
+}

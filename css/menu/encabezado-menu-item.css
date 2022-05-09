@@ -1,0 +1,9 @@
+.encabezado__menu__item{
+    list-style: none;
+
+
+}
+
+.encabezado__menu__item:last-child .encabezado__menu__link{
+    margin-right:0;
+}
